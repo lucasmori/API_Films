@@ -15,4 +15,4 @@ Entering the movie name returns the following information:
 
 #### To implement
 
-create a Front-end page.
+Create a Front-end page.
